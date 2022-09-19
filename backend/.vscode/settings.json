@@ -1,0 +1,8 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+    "workbench.preferredDarkColorTheme": "Default Dark+",
+    "workbench.editor.decorations.colors": false,
+    "workbench.preferredHighContrastLightColorTheme": "Default Light+",
+    "breadcrumbs.enabled": false,
+    "workbench.activityBar.iconClickBehavior": "focus"
+}
